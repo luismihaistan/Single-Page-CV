@@ -1,8 +1,8 @@
 # Single-Page HTML CV
 
 Single-Page CV created only with HTML.
-![Screenshot1](assets/screenshot1.png)
-![Screenshot2](assets/screenshot2.png)
+## 🔍 Preview
+![Screenshot](assets/screenshot1.png)
 ## 🛠️ Technologies Used
 
 - **HTML5**
